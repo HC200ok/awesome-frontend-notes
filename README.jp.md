@@ -13,7 +13,7 @@ Not document, just know-how!
   - [Vue3](#vue3)
 
 ## CI/CD
-- [AWS CodePipelineでS3バケットへSPAアプリケーションをデプロイ！](https://www.ragate.co.jp/blog/articles/6981)
+- 
 
 ## Sentry
 - [Sentryをちゃんとセットアップしたら、想像以上にできるやつだった話（フロントエンドのエラー監視）](https://tech.smartshopping.co.jp/Sentry)
