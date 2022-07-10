@@ -1,3 +1,7 @@
+<p align="center">
+<img src="awesome-vue-knowhow.png"  width="400"/ />
+</p>
+
 # A curated list of know-how articles related to Vue.js.
 Not document, just know-how!
 
