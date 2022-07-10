@@ -13,7 +13,7 @@ Not document, just know-how!
   - [Vue3](#vue3)
 
 ## CI/CD
-- [AWS上のサービスを使ってVue.jsのCI/CDを実現してみた](https://blog.usize-tech.com/vuejs-cicd-on-aws/)
+- [【AWS】CodeBuildを使ってSPAアプリをS3で公開する方法解説！](https://engineer-ninaritai.com/aws-codebuild-spa/)
 
 ## Sentry
 - [Sentryをちゃんとセットアップしたら、想像以上にできるやつだった話（フロントエンドのエラー監視）](https://tech.smartshopping.co.jp/Sentry)
