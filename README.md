@@ -1,7 +1,7 @@
 # A curated list of articles related to Vue.js.
 Not document, just know-how!
 
-English Notes List | [中文文章列表](./README.zh.md) | [日本語記事リスト](./README.ja.md) |
+English Notes List | [中文文章列表](./README.zh.md) | [日本語記事リスト](./README.jp.md) |
 
 - Classification
   - [Automate deployment](#Automate-deployment)
