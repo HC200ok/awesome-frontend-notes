@@ -8,9 +8,9 @@ Not document, just know-how!
 日本語記事リスト | [中文文章列表](./README.zh.md) | [English Notes List](./README.md) |
 
 - Classification
-  - [Vue3](#vue3)
-  - [Sentry](#Sentry)
   - [CI/CD](#CI/CD)
+  - [Sentry](#Sentry)
+  - [Vue3](#vue3)
 
 ## CI/CD
 - [AWS上のサービスを使ってVue.jsのCI/CDを実現してみた](https://blog.usize-tech.com/vuejs-cicd-on-aws/)
