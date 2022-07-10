@@ -13,7 +13,7 @@ Not document, just know-how!
   - [Vue3](#vue3)
 
 ## CI/CD
-- 
+- [GitHubの新機能「GitHub Actions」で試すCI/CD](https://knowledge.sakura.ad.jp/23478/)
 
 ## Sentry
 - [Sentryをちゃんとセットアップしたら、想像以上にできるやつだった話（フロントエンドのエラー監視）](https://tech.smartshopping.co.jp/Sentry)
