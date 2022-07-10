@@ -3,8 +3,9 @@ Not document, just know-how!
 
 English Notes List | [中文文章列表](./README.zh.md) | [日本語記事リスト](./README.ja.md) |
 
-- [Automate deployment](#Automate-deployment)
-- [Migration](#Migration)
+- Classification
+  - [Automate deployment](#Automate-deployment)
+  - [Migration](#Migration)
 
 ## Automate deployment
 - [Automate Vue Js deployment to AWS S3 bucket with CodeBuild](https://bibhuticoder.medium.com/automate-vue-js-deployment-to-aws-s3-bucket-with-codebuild-bf1c78a59eb8)
