@@ -6,7 +6,7 @@
 
 > Not document, but know-how.
 
-English Notes List | [中文文章列表](./README.cn.md) | [日本語記事リスト](./README.jp.md) |
+English articles list | [中文文章列表](./README.cn.md) | [日本語記事リスト](./README.jp.md) |
 
 - Categories
   - [CI/CD](###CI/CD)
