@@ -5,7 +5,7 @@
 # A curated list of know-how articles related to Vue.js.
 Not document, just know-how!
 
-English Notes List | [中文文章列表](./README.zh.md) | [日本語記事リスト](./README.jp.md) |
+English Notes List | [中文文章列表](./README.cn.md) | [日本語記事リスト](./README.jp.md) |
 
 - Classification
   - [CI/CD](#CI/CD)
