@@ -6,7 +6,7 @@
 
 > Not document, but know-how.
 
-日本語記事リスト | [中文文章列表](./README.cn.md) | [English Notes List](./README.md) |
+日本語記事リスト | [中文文章列表](./README.cn.md) | [English articles list](./README.md) |
 
 - Categories
   - [Sentry](###Sentry)
