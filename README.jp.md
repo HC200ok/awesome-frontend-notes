@@ -7,7 +7,7 @@ Not document, just know-how!
 
 日本語記事リスト | [中文文章列表](./README.cn.md) | [English Notes List](./README.md) |
 
-- Classification
+- Categories
   - [CI/CD](#CI/CD)
   - [Sentry](#Sentry)
   - [Vue3](#vue3)
