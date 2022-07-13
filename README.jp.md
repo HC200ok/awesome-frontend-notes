@@ -2,7 +2,7 @@
 <img src="awesome-vue-knowhow.png"  width="400"/ />
 </p>
 
-# A curated list of articles may be helpful to those who are using Vue.js.
+## A curated list of articles may be helpful to those who are using Vue.js.
 
 > Not document, but know-how.
 
@@ -12,9 +12,9 @@
   - [Sentry](#Sentry)
   - [Vue3](#vue3)
 
-## Sentry
+### Sentry
 - [Sentryをちゃんとセットアップしたら、想像以上にできるやつだった話（フロントエンドのエラー監視）](https://tech.smartshopping.co.jp/Sentry)
 - [Sentry だけに Production 環境のソースマップを表示させる](https://www.dkrk-blog.net/javascript/sentry-sourcemap)
 
-## Vue3
+### Vue3
 - [【Vue.js】ref と reactive どっちを使う？](https://zenn.dev/azukiazusa/articles/ref-vs-article)
