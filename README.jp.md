@@ -18,7 +18,7 @@
 - [Sentry だけに Production 環境のソースマップを表示させる](https://www.dkrk-blog.net/javascript/sentry-sourcemap)
 
 ### Vue3
-- [【Vue.js】ref と reactive どっちを使う？](https://zenn.dev/azukiazusa/articles/ref-vs-article)
+- [【Vue.js】ref と reactive どっちを使う？](https://zenn.dev/azukiazusa/articles/ref-vs-article)（わかりやすいな）
 
 
 ### Vite
