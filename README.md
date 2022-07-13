@@ -20,5 +20,5 @@ English articles list | [中文文章列表](./README.cn.md) | [日本語記事�
 - [From vue-cli to vitejs](https://medium.com/nerd-for-tech/from-vue-cli-to-vitejs-648d2f5e031d)
 
 ### Vite
-- [Storybook Performance: Vite vs Webpack](https://storybook.js.org/blog/storybook-performance-from-webpack-to-vite/)
+- [Storybook Performance: Vite vs Webpack](https://storybook.js.org/blog/storybook-performance-from-webpack-to-vite/) (It is time to use Storybook Vite Builder)
 
