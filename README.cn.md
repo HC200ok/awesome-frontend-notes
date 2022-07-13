@@ -12,6 +12,5 @@ Not document, but know-how.
 
 
 ## Vue3
-- [无虚拟 DOM 版 Vue 即将到来](https://juejin.cn/post/7109676524550553630)
-- [为什么 Vue3 的组件库都在使用 jsx/tsx？](https://www.zhihu.com/question/436260027/answer/1647182157)
+
   
