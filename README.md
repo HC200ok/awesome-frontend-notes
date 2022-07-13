@@ -10,7 +10,6 @@ English Notes List | [中文文章列表](./README.cn.md) | [日本語記事リ�
 - Categories
   - [CI/CD](#CI/CD)
   - [Migration](#Migration)
-  - [Vite](#Vite)
 
 ## CI/CD
 - [Deploy your front end application to amazon s3 using codeBuild and codePipeline](https://towardsaws.com/deploy-your-front-end-application-to-amazon-s3-using-codebuild-and-codepipeline-25c64572ffc6)
@@ -18,5 +17,3 @@ English Notes List | [中文文章列表](./README.cn.md) | [日本語記事リ�
 ## Migration
 - [From vue-cli to vitejs](https://medium.com/nerd-for-tech/from-vue-cli-to-vitejs-648d2f5e031d)
 
-## Vite
-- [Is Vite Better than Webpack?](https://blog.bitsrc.io/vite-is-better-than-webpack-d5dd59610d56)
