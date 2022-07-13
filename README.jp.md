@@ -9,8 +9,8 @@
 日本語記事リスト | [中文文章列表](./README.cn.md) | [English Notes List](./README.md) |
 
 - Categories
-  - [Sentry](#Sentry)
-  - [Vue3](#vue3)
+  - [Sentry](###Sentry)
+  - [Vue3](###vue3)
 
 ### Sentry
 - [Sentryをちゃんとセットアップしたら、想像以上にできるやつだった話（フロントエンドのエラー監視）](https://tech.smartshopping.co.jp/Sentry)
