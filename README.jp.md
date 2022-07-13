@@ -2,18 +2,15 @@
 <img src="awesome-vue-knowhow.png"  width="400"/ />
 </p>
 
-# A curated list of know-how articles related to Vue.js.
-Not document, but know-how.
+# A curated list of articles may be helpful to those who are using Vue.js.
+
+> Not document, but know-how.
 
 日本語記事リスト | [中文文章列表](./README.cn.md) | [English Notes List](./README.md) |
 
 - Categories
-  - [CI/CD](#CI/CD)
   - [Sentry](#Sentry)
   - [Vue3](#vue3)
-
-## CI/CD
-- [GitHubの新機能「GitHub Actions」で試すCI/CD](https://knowledge.sakura.ad.jp/23478/)
 
 ## Sentry
 - [Sentryをちゃんとセットアップしたら、想像以上にできるやつだった話（フロントエンドのエラー監視）](https://tech.smartshopping.co.jp/Sentry)
