@@ -11,6 +11,7 @@
 - Categories
   - [Sentry](###Sentry)
   - [Vue3](###vue3)
+  - [Vite](###Vite)
 
 ### Sentry
 - [Sentryをちゃんとセットアップしたら、想像以上にできるやつだった話（フロントエンドのエラー監視）](https://tech.smartshopping.co.jp/Sentry)
@@ -18,3 +19,7 @@
 
 ### Vue3
 - [【Vue.js】ref と reactive どっちを使う？](https://zenn.dev/azukiazusa/articles/ref-vs-article)
+
+
+### Vite
+- [Viteで爆速なフロントエンド開発環境を作る](https://zenn.dev/sykmhmh/articles/ff09bea2cf7026)（わかりやすいな）
