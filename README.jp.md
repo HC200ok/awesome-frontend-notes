@@ -3,7 +3,7 @@
 </p>
 
 # A curated list of know-how articles related to Vue.js.
-Not document, just know-how!
+Not document, but know-how.
 
 日本語記事リスト | [中文文章列表](./README.cn.md) | [English Notes List](./README.md) |
 
