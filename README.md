@@ -2,7 +2,7 @@
 <img src="awesome-vue-knowhow.png"  width="400"/ />
 </p>
 
-# A curated list of know-how articles related to Vue.js.
+# A curated list of know-how articles for engineers who are using Vue.js.
 Not document, but know-how.
 
 English Notes List | [中文文章列表](./README.cn.md) | [日本語記事リスト](./README.jp.md) |
