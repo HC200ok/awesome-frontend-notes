@@ -11,6 +11,7 @@ English articles list | [中文文章列表](./README.cn.md) | [日本語記事�
 - Categories
   - [CI/CD](###CI/CD)
   - [Migration](###Migration)
+  - [Pefermance](###Pefermance)
   - [Typescript](###Typescript)
   - [Vite](###Vite)
 
@@ -19,6 +20,9 @@ English articles list | [中文文章列表](./README.cn.md) | [日本語記事�
 
 ### Migration
 - [From vue-cli to vitejs](https://medium.com/nerd-for-tech/from-vue-cli-to-vitejs-648d2f5e031d)
+
+### Pefermance
+- [85% faster YouTube embeds with iframe srcdoc!](https://swyxkit.netlify.app/faster-youtube-embeds)
 
 ### Typescript
 - [The Most Asked TypeScript Questions on StackOverflow – Answered for Beginners](https://www.freecodecamp.org/news/the-top-stack-overflowed-typescript-questions-explained/)
