@@ -25,7 +25,7 @@ English articles list | [中文文章列表](./README.cn.md) | [日本語記事�
 - [85% faster YouTube embeds with iframe srcdoc!](https://swyxkit.netlify.app/faster-youtube-embeds)
 
 ### Typescript
-- [The Most Asked TypeScript Questions on StackOverflow – Answered for Beginners](https://www.freecodecamp.org/news/the-top-stack-overflowed-typescript-questions-explained/)
+- [The Most Asked TypeScript Questions on StackOverflow – Answered for Beginners](https://www.freecodecamp.org/news/the-top-stack-overflowed-typescript-questions-explained/) (interfaces can be extended by declaring it multiple times.)
 - [Learn Advanced TypeScript Types](https://medium.com/free-code-camp/typescript-curry-ramda-types-f747e99744ab)
 
 ### Vite
