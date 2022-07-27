@@ -31,8 +31,10 @@ English articles list | [中文文章列表](./README.cn.md) | [日本語記事�
 
 ### Vite
 - [Storybook Performance: Vite vs Webpack](https://storybook.js.org/blog/storybook-performance-from-webpack-to-vite/) (It is time to use Storybook Vite Builder)
+- [Build a typescript component library with Vite](https://jivancic.com/posts/build-a-component-library.html)
 
 ### Vue3
 - [The Beginners Guide to Template Refs](https://learnvue.co/tutorials/template-refs)
+
 
 
