@@ -28,6 +28,7 @@ English articles list | [中文文章列表](./README.cn.md) | [日本語記事�
 ### Typescript
 - [The Most Asked TypeScript Questions on StackOverflow – Answered for Beginners](https://www.freecodecamp.org/news/the-top-stack-overflowed-typescript-questions-explained/) (interfaces can be extended by declaring it multiple times.)
 - [Learn Advanced TypeScript Types](https://medium.com/free-code-camp/typescript-curry-ramda-types-f747e99744ab)
+- [How to Write a TypeScript Library](https://www.tsmean.com/articles/how-to-write-a-typescript-library/)
 
 ### Vite
 - [Storybook Performance: Vite vs Webpack](https://storybook.js.org/blog/storybook-performance-from-webpack-to-vite/) (It is time to use Storybook Vite Builder)
