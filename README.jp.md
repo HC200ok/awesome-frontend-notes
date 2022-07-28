@@ -28,4 +28,4 @@
 
 ### Vite
 - [Viteで爆速なフロントエンド開発環境を作る](https://zenn.dev/sykmhmh/articles/ff09bea2cf7026)（わかりやすいな）
-
+- [viteでパッケージをライブラリに公開する（TypeScript対応）](https://zenn.dev/drop_table_user/articles/7b043bef6cec29)
